@@ -1,0 +1,21 @@
+		{
+	"objects": [
+				{"id": "281474977134975",
+				"type": "MeContext",
+				"targetTypeAttribute": "BSC"}, 
+				{"id": "281474977134976",
+				"type": "MeContext",
+				"targetTypeAttribute": "BSC"}
+			],
+	"attributes": ["neType"],
+	"attributeMappings": [{
+		"moType": "MeContext",
+		"attributeNames": ["neType"]
+	}],
+	"metadata": {
+		"MAX_UI_CACHE_SIZE": 100000,
+		"RESULT_SET_TOTAL_SIZE": 1,
+		"INFO_MESSAGE": 0,
+		"SORTABLE": true
+	}
+}
